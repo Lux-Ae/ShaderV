@@ -33,7 +33,7 @@ func _get_input_port_name(port: int):
 		1:
 			return "inMin"
 		2:
-			return "inMin"
+			return "inMax"
 		3:
 			return "outMin"
 		4:
